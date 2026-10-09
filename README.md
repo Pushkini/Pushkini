@@ -21,3 +21,12 @@ From the forge d'or (/fɔʁʒ dɔʁ/, "forge of gold"), where the fire runs red:
 ## Also known as
 
 Pushkini · PushkiniKounto · PushkiniKaunto · プーシキンカウント · PūshikinKaunto · CountPushkin · TheImperialCountPushkin
+
+<details>
+<summary>·</summary>
+
+Hello, world.<br>
+You found the back of the forge.<br>
+Mind the sparks.
+
+</details>
