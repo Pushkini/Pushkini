@@ -5,20 +5,19 @@
 
 ![](redgold-bar.svg)
 
-From the forge d'or ("forge of gold"): games, apps and tools, hammered out one project at a time.
+From the forge d'or (/fɔʁʒ dɔʁ/, "forge of gold"), where the fire runs red: games, apps and tools, hammered out one project at a time.
 
 ## On the anvil
 
-- A game library app
-- trollie: tick what you need at home, see it at the store
-- toolshed: handy offline utilities in a single file
-- homebase: a local dashboard for projects and ideas
+- **Eventually** · a game library that picks what to play next · *coming soon*
+- **Trollie** · a shared grocery list you tick at home and shop at the store · *coming soon*
+- **Toolshed** · a single HTML file of offline tools that keeps your data on your machine · *coming soon*
+- **Homebase** · a private-first dashboard for your projects and what's next · *coming soon*
 
 ## The forge
 
-[forgedor.com](https://forgedor.com) (coming soon)
+[forgedor.com](https://forgedor.com)
 
-## Also known as (mostly on Steam)
+## Also known as
 
-Pushkini · PushkiniKounto · PushkiniKauto · CountPushkin · TheImperialCountPushkin ·
-プーシキンカウント · PūshikinKaunto
+Pushkini · PushkiniKounto · PushkiniKaunto · プーシキンカウント · PūshikinKaunto · CountPushkin · TheImperialCountPushkin
