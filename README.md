@@ -13,6 +13,7 @@ From the forge d'or (/fɔʁʒ dɔʁ/, "forge of gold"), where the fire runs red:
 - **Trollie** · a shared grocery list you tick at home and shop at the store · *coming soon*
 - **Toolshed** · a single HTML file of offline tools that keeps your data on your machine · *coming soon*
 - **Homebase** · a private-first dashboard for your projects and what's next · *coming soon*
+- **Rootwork** · a cosy idle game where the valley is also a production chain · *coming soon*
 
 ## The forge
 
